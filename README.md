@@ -5,9 +5,12 @@ A dataset for password classification.
 **Description**
 
 This dataset contains leaked passwords labeled using SMMl-PSM, a statistical probabilistic password strength meter. The labels are assigned based on the estimated strength of each password:
-	•	Label 0: Weak passwords
-	•	Label 1: Normal passwords
-	•	Label 2: Strong passwords
+
+Label 0: Weak passwords
+
+Label 1: Normal passwords
+
+Label 2: Strong passwords
 
 **Purpose**
 
