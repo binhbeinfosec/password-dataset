@@ -1,6 +1,6 @@
 **Password Dataset**
 
-A dataset for password classification.
+Datasets for password classification.
 
 **Description**
 
